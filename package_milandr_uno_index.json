@@ -2,12 +2,12 @@
    "packages":[
       {
          "name": "AmbaSat-333",
-         "maintainer": "AmbaSat Ltd",
+         "maintainer": "Milandr JSC",
          "websiteURL": "https://ambasat.com",
          "email": "admin@ambasat.com",
          "platforms":[
             {
-               "name": "AmbaSat-1 Satellite Board",
+               "name": "Milandr Dev Board",
                "architecture": "avr",
                "version": "1.0.4",
                "category": "Contributed",
@@ -19,7 +19,7 @@
                   "online":"https://ambasat.com"
                },
                "boards":[
-                  { "name": "AmbaSat-1 Satellite" }
+                  { "name": "MLDR UNO" }
                ],
                "toolsDependencies":[]
             }

@@ -1,13 +1,13 @@
 {
    "packages":[
       {
-         "name": "AmbaSat-333",
+         "name": "Milandr Boards",
          "maintainer": "Milandr JSC",
-         "websiteURL": "https://ambasat.com",
-         "email": "admin@ambasat.com",
+         "websiteURL": "https://www.milandr.ru",
+         "email": "info@milandr.ru",
          "platforms":[
             {
-               "name": "Milandr Dev Board",
+               "name": "Milandr Arduino Board",
                "architecture": "avr",
                "version": "1.0.4",
                "category": "Contributed",
@@ -16,7 +16,7 @@
                "checksum": "SHA-256:03a086248b8478411184d7267db733731807f8ca95039bf5e640ac7160901ff4",
                "size": "10813",
                "help":{
-                  "online":"https://ambasat.com"
+                  "online":"https://www.milandr.ru"
                },
                "boards":[
                   { "name": "https://www.milandr.ru/support/" }

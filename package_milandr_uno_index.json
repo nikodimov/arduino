@@ -16,10 +16,10 @@
                "checksum": "SHA-256:03a086248b8478411184d7267db733731807f8ca95039bf5e640ac7160901ff4",
                "size": "10813",
                "help":{
-                  "online":"https://www.milandr.ru"
+                  "online":"https://www.milandr.ru/support/"
                },
                "boards":[
-                  { "name": "https://www.milandr.ru/support/" }
+                  { "name": "K1986BE92 Uno" }
                ],
                "toolsDependencies":[]
             }

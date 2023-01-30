@@ -8,8 +8,8 @@
          "platforms":[
             {
                "name": "Milandr Arduino Board",
-               "architecture": "avr",
-               "version": "1.0.4",
+               "architecture": "Cortex-M3",
+               "version": "0.0.1",
                "category": "Contributed",
                "url": "https://ambasat.com/boards/ambasat-1-avr_1.0.4v.zip",
                "archiveFileName": "ambasat-1-avr_1.0.4v.zip",
